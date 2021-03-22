@@ -5,7 +5,7 @@
 //  code: Control de plataforma movil 
 //  botones UP/DOWN/PWM / turnOn/Off 
 //
-//  Author : Sequiera Andres
+//  Author : Sequeira Andres
 //  
 ////////////////////////////////////////////////////////////////////////
 

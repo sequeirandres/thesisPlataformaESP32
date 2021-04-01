@@ -17,7 +17,7 @@ ESP8266WebServer server(80);
  
 // Make a wifi name and password as access points
 const char *ssid = "NodeMCU_ESP8266";
-const char *password = "qwerty";
+const char *password = "qwerty1234";
 
 // i'm going to use 30 to 40 % of duty cicle 
 

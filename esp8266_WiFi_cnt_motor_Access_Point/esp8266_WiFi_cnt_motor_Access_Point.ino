@@ -31,7 +31,7 @@ const char *password = "qwerty";
 //#define MOTOR_SPEED 450 
 #define DELAY_TIME 1000
 
-int MOTOR_SPEED = 450 ; // INIT MOTOR SPEED 
+int MOTOR_SPEED = 300 ; // INIT MOTOR SPEED 30% del maximo de Pwm
 // MOTOR_PWM from 0 to 1024 
 // use 450 
  
